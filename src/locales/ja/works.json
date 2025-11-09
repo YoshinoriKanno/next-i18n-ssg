@@ -1,4 +1,5 @@
 {
-  "title": "Welcome",
-  "lead": "This is the English homepage."
+  "title": "制作物",
+  "item.sample1": "サンプルプロジェクトA",
+  "item.sample2": "サンプルプロジェクトB"
 }

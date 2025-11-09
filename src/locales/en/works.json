@@ -1,4 +1,5 @@
 {
-  "title": "Welcome",
-  "lead": "This is the English homepage."
+  "title": "Works",
+  "item.sample1": "Sample project A",
+  "item.sample2": "Sample project B"
 }

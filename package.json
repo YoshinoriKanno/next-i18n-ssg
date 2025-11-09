@@ -5,6 +5,7 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
+    "sitemap": "next-sitemap",
     "start": "next start",
     "i18n:check": "tsx scripts/check-i18n.ts",
     "lint": "eslint"
